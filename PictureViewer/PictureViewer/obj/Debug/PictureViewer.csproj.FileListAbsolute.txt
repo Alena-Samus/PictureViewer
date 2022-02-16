@@ -1,0 +1,10 @@
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
