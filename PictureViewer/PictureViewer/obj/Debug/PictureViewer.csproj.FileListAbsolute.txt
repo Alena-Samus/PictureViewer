@@ -8,3 +8,13 @@ D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewe
 D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
 D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
 D:\Alena\!БГУ\PictureViewe\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\reserv\lesson2_viewer\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
